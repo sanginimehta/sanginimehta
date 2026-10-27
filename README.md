@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Sangini 👋
 
-<!--
-**sanginimehta/sanginimehta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Informatics (Data Science) senior at the University of Washington, graduating May 2027. I build with AI and love getting tools into people's hands.
 
-Here are some ideas to get you started:
+- SpaceXAI Campus Lead at UW, running hands-on workshops where students build with Cursor and Grok Bot
+- DubHacks Sponsorship Chair, raising $100K+ for a 1,000+ hacker hackathon
+- Building AI agents for sales and GTM work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Things I've built
+
+- [AI-SDR](https://github.com/sanginimehta/AI-SDR): an AI outreach agent that researches prospects, scores them against your ICP, and writes personalized cold emails
+
+### Find me
+
+[LinkedIn](https://www.linkedin.com/in/sangini-mehta-9a4662214/)
